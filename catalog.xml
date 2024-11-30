@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/PrimerProyectoSOAP/funcionesMatematicas?WSDL" uri="src/conf/xml-resources/web-service-references/funcionesMatematicas/wsdl/localhost_8080/PrimerProyectoSOAP/funcionesMatematicas.wsdl"/>
+    <system systemId="http://localhost:8080/PrimerProyectoSOAP/funcionesMatematicas?xsd=1" uri="src/conf/xml-resources/web-service-references/funcionesMatematicas/wsdl/localhost_8080/PrimerProyectoSOAP/funcionesMatematicas.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PrimerProyectoSOAP/funciones?WSDL" uri="src/conf/xml-resources/web-service-references/funciones/wsdl/localhost_8080/PrimerProyectoSOAP/funciones.wsdl"/>
+    <system systemId="http://localhost:8080/PrimerProyectoSOAP/funciones?xsd=1" uri="src/conf/xml-resources/web-service-references/funciones/wsdl/localhost_8080/PrimerProyectoSOAP/funciones.xsd_1.xsd"/>
+</catalog>
